@@ -1,4 +1,23 @@
 
 * {
   margin: 0;
+  /* This helps keep all the header close to margin */
+}
+
+  .app{
+
+    background-color: #fafafa;
+ 
+   
+
+    
+  }
+
+  .app__headerImage { 
+    background-color: #fafafa;
+    padding: 20px;
+    object-fit: contain;
+ 
+   /*  This helps keep the logo look proportionaten*/
+
 }
