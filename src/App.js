@@ -5,6 +5,12 @@ import Post from './Post';
 function App() {
   return (
     <div className="app">
+
+          <h1> Header  </h1> 
+           <Post />
+          {/* Posts
+          {/* Posts */}
+
   
       <div className="app__header">
         <img
@@ -19,8 +25,6 @@ function App() {
       </div>
 
 
-      {/* <h1> Header  </h1> */}
-           {/* <Post /> */}
           {/* Posts */}
           {/* Posts */}
 
