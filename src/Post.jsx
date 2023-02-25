@@ -1,3 +1,5 @@
+// rfce ~ shortcut command that creates the template for you 
+
 import React from 'react'
 
 function Post() {

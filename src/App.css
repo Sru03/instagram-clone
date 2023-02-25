@@ -6,15 +6,24 @@
 
   .app{
 
-    background-color: #fafafa;
+    background-color: white;
+    
  
   }
 
-  .app__headerImage { 
-    background-color: #fafafa;
+
+
+  .app__header { 
+    background-color: #fafafa ;
+    width : 320vh; 
     padding: 20px;
     object-fit: contain;
  
    /*  This helps keep the logo look proportionaten*/
 
 }
+
+/* .container{ 
+  background-color:;
+
+} */
