@@ -6,18 +6,18 @@
 
   .app{
 
-    background-color: white;
-    
+    background-color: #fafafa;
+    width : 320vh;
+    height : 100vh;
  
   }
 
-
-
   .app__header { 
-    background-color: #fafafa ;
-    width : 320vh; 
+    background-color: white  ;
+     width : 320vh;  
     padding: 20px;
     object-fit: contain;
+    border-bottom: 1px solid lightgray;
  
    /*  This helps keep the logo look proportionaten*/
 
