@@ -1,0 +1,28 @@
+
+* {
+  margin: 0;
+  /* This helps keep all the header close to margin */
+}
+
+  .app{
+
+    background-color: #fafafa;
+    
+ 
+  }
+
+  .app__header { 
+    background-color: white  ;
+     width : 320vh;  
+    padding: 20px;
+    object-fit: contain;
+    border-bottom: 1px solid lightgray;
+ 
+   /*  This helps keep the logo look proportionaten*/
+
+}
+
+/* .container{ 
+  background-color:;
+
+} */
